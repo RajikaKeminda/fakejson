@@ -1,8 +1,8 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+    "items": [
+      { "id": 1, "brand": "Gal", "quantity": "450", "Unite_prise": "750", "discount": "0" },
+      { "id": 2, "brand": "brandi", "quantity": "500", "Unite_prise": "1750", "discount": "0" },
+      { "id": 3, "brand": "black_h", "quantity": "50", "Unite_prise": "2750", "discount": "0" }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
