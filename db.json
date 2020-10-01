@@ -1,4 +1,5 @@
 {
+    //version
     "items": [
       { "id": 1, "brand": "Gal", "quantity": "450", "Unite_prise": "750", "discount": "0" },
       { "id": 2, "brand": "brandi", "quantity": "500", "Unite_prise": "1750", "discount": "0" },
@@ -9,6 +10,6 @@
       
     ],
     "profile": {
-      "name": "typicode"
-    }
+      "name": "Zipid"
+    }//test.js
   }
